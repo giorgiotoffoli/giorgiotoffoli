@@ -1,7 +1,5 @@
-## Hi there, I'm Giorgio Toffoli 🌿
+## Hello, I'm Gio 🌿
 
-I'm a high school student who loves programming and aspires to become an established software develoepr. 👨‍💻
+I'm a computer science undergrad at Midwestern State University. I also run a [YouTube channel](https://youtube.com/giorgiotoffoli) in which I post *mostly* programming related content.
 
-I run a [YouTube channel](https://youtube.com/giorgiotoffoli) in which I post *mostly* programming related content. 🍿
-
-### Have a great day, and thanks for stopping by 👋
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/giorgio-toffoli-95abb3385/) or email me at giorgio.toffoli@pm.me
